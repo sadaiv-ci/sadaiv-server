@@ -1,0 +1,16 @@
+{
+  "name": "sadaiv-server",
+  "version": "1.0.0",
+  "description": "Server side to sign and send transaction to blockchain.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "author": "Tushar Ojha",
+  "license": "ISC",
+  "dependencies": {
+    "ethers": "^5.7.2",
+    "express": "^4.18.2"
+  }
+}
